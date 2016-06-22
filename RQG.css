@@ -1,0 +1,22 @@
+div {
+  position:relative;
+  z-index: 2;
+}
+
+.background {
+  width: 100%;
+  padding-top: 7%;
+  height: 100vh;
+  background-color: #7a00cc;
+}
+
+.content {
+  background-color: #cc80ff;
+  margin:10%;
+  padding:25px;
+  font-family: century gothic;
+  border-radius:1.5%;
+}
+.button {
+  display:inline-block;
+}
